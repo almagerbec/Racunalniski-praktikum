@@ -46,13 +46,14 @@ h2{margin-top: 2em;
     padding: 2em;
     background-color: rgb(51, 0, 102, 0.1);
 }    
-.slika img{
+.slika {
     font-size: 0.9em;
-    width: 100%;
+    width: 40%;
     text-align: left;
-    height: auto;
     float: right;
     margin-left: 2em;
 }
-
-
+.slika img{
+    width: 100%;
+    height: auto;
+}
