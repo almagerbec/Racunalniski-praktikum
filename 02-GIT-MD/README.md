@@ -5,7 +5,7 @@
 
 <!-- 2.~nivojski razdelek -->
 ## Bližnjice na tipkovnici
-
+    
 * _Kopiraj_ označeno v odložišče: `Ctrl+C` (**C**opy)
 * _Izreži_ označeno v odložišče: `Ctrl+X`
 * _Prilepi_ vsebino odložišča: `Ctrl+V`
