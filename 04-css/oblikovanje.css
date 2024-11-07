@@ -18,7 +18,7 @@ body {
     /*  Obojestranska poravnava besedila    */
     text-align: justify;
 }
-
+      
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
 /*  Spremenimo barve povezav: neobiskanih, obiskanih, pod miško in aktivnih */
