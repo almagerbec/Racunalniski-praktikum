@@ -1,5 +1,5 @@
 body {
-    /*  Barva pisave pod značko oz. oznako  */
+    /*  Barva pisave pod značko oz.~oznako  */
     color: #333333; 
     /*  Določanje pisave: brskalnik uporabi prvo v seznamu pisav, ki jo ima uporabnik nameščeno.
        Če ni nameščena nobena od naštetih pisav, se uporabi privzeta pisava brskalnika. */

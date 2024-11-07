@@ -3,14 +3,14 @@
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
-<!-- 2. nivojski razdelek -->
+<!-- 2.~nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
 * _Kopiraj_ označeno v odložišče: `Ctrl+C` (**C**opy)
 * _Izreži_ označeno v odložišče: `Ctrl+X`
 * _Prilepi_ vsebino odložišča: `Ctrl+V`
 
-<!-- 2. nivojski razdelek -->
+<!-- 2.~nivojski razdelek -->
 ## Izvorna koda
 
 Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
@@ -19,7 +19,7 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 <kbd>Ctrl</kbd>
 <!-- konec bloka z izvorno kodo -->
 
-<!-- 2. nivojski razdelek -->
+<!-- 2.~nivojski razdelek -->
 ## Domača naloga
 
 <!-- Spodnji seznam bo pripravil seznam nalog. Na GitHubu bodo lepo vidna potrditvena polja, 
@@ -30,7 +30,7 @@ Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
 - [ ] Sinhronizirajte spremembe z repozitorijem na GitHubu: najprej naredite `commit` (smiselno sporočilo bi bilo npr. "dopolni README z vajami za Markdown"), nato pa še `push`.
 - [ ] Imenik z repozitorijem stisnite v arhiv, ga preimenujte v nekaj oblike `ImePriimek.zip` in ga oddajte na učilnico.
 
-<!-- 2. nivojski razdelek -->
+<!-- 2.~nivojski razdelek -->
 ## Uporabne povezave
 
 1. [FMF učilnica] (https://ucilnica.fmf.uni-lj.si/)
