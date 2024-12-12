@@ -9,3 +9,4 @@
 * option + -> ...~premik za eno besedo
 
 * https://almagerbec.github.io/
+  :)
